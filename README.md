@@ -1,6 +1,6 @@
 # Site for the Mood
 
-[TODO. There will be project description]
+Use this webpage when you are gloomy. https://serstep.github.io/mood/
 
 # Project Goals
 
